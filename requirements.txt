@@ -1,0 +1,5 @@
+json
+boto3
+os
+aws_lambda_typing
+typing
